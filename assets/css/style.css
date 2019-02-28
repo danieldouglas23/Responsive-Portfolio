@@ -217,35 +217,45 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px) {
-  #maincontainer {
-    width: 100%;
-  }
-
   #masthead {
-    width: 100%;
-  }
-
-  footer {
     width: 100%;
   }
 }
 
 @media screen and (max-width: 768px) {
-  #maincontainer {
-    width: 100%;
+  .work {
+    width: 45%;
   }
 
   #masthead {
     width: 100%;
   }
-  
-  footer {
-    width: 100%;
-  }
+
 }
 
 @media screen and (max-width: 640px) {
-  #maincontainer {
+  nav {
+    width: 100%;
+    text-align: center;
+  }
+
+  #logo {
+    width: 100%;
+  }
+
+  #main-container {
+    padding-top: 0px;
+  }
+  
+  .blurb {
+    width: 100%;
+  }
+
+  .auth-image {
+    width: 100%;
+  }
+
+  .work {
     width: 100%;
   }
 
@@ -253,7 +263,4 @@ input[type=submit] {
     position: static;
   }
   
-  footer {
-    width: 100%;
-  }
 }
