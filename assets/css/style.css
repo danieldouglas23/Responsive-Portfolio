@@ -220,6 +220,11 @@ input[type=submit] {
   height: 206px;
 }
 
+#brewery-image {
+  height: 183px;
+  width: 274px;
+}
+
 @media screen and (max-width: 980px) {
   #masthead {
     width: 100%;
