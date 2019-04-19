@@ -216,7 +216,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-#giphy-image, #psychic-image, #trivia-image {
+#giphy-image, #psychic-image, #trivia-image, #liri-image, #taco-image, #burger-image {
   height: 206px;
 }
 
