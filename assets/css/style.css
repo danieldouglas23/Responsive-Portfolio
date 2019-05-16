@@ -216,7 +216,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-#giphy-image, #psychic-image, #trivia-image, #liri-image, #taco-image,
+#giphy-image, #psychic-image, #trivia-image, #liri-image, #taco-image, #budget-image,
  #burger-image, #amazon-image, #onion-image, #parks-image, #books-image, #joke-image {
   height: 206px;
 }
