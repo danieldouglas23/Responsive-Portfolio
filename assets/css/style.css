@@ -217,8 +217,16 @@ input[type=submit] {
 }
 
 #giphy-image, #psychic-image, #trivia-image, #liri-image, #taco-image, #budget-image,
- #burger-image, #amazon-image, #onion-image, #parks-image, #books-image, #joke-image {
+#burger-image, #amazon-image, #onion-image, #parks-image, #books-image, #joke-image, #youtube-image {
   height: 206px;
+}
+
+#giphy-image:hover, #psychic-image:hover, #trivia-image:hover, #liri-image:hover, #taco-image:hover, #budget-image:hover,
+#burger-image:hover, #amazon-image:hover, #onion-image:hover, #parks-image:hover,
+#books-image:hover, #joke-image:hover, #youtube-image:hover {
+  border: 2px;
+  border-color: grey;
+
 }
 
 #brewery-image {
